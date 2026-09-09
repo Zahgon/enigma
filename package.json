@@ -1,0 +1,10 @@
+{
+  "name": "enigma-js",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "node --test \"test/**/*.test.js\""
+  }
+}

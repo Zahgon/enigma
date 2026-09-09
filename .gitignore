@@ -1,6 +1,10 @@
-.idea/workspace.xml
-.idea/usage.statistics.xml
-.idea/tasks.xml
-.idea/shelf/*
-.idea/libraries/*.xml
-out/*
+node_modules/
+out/
+*.log
+
+# Task scaffolding artifacts (not part of the repo)
+golden.patch
+test.patch
+fix.patch
+TRUTH.md
+instruction.md
